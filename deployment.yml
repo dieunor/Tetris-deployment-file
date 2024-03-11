@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: dleoma/consulting:latest
+        image: dleoma/web2:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
