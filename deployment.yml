@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: dleoma/tetrisv2:latest
+        image: dleoma/amazon-clone:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
